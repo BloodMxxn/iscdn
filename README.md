@@ -11,7 +11,7 @@ A simple Bash script to check if an IP belongs to **Cloudflare** or **ArvanCloud
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/iscdn.git
+git clone https://github.com/BloodMxxn/iscdn.git
 cd iscdn
 chmod +x iscdn.sh
 ```
